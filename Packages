@@ -1,0 +1,55 @@
+Package: luci-app-iedu
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 144271
+Filename: luci-app-iedu_1.0-1_mipsel_24kc.ipk
+Size: 145361
+SHA256sum: b032c687c33952efb60ed1ff50116b0e254bfc1bb22954a15c727e9f37d7915f
+Description:  Iedu Device
+
+Package: luci-app-ieduSSL
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 144031
+Filename: luci-app-ieduSSL_1.0-1_mipsel_24kc.ipk
+Size: 145129
+SHA256sum: eb4ead09f26d669a63516636333165dc4767cd01cf1b0e2120bced749f124fa9
+Description:  IeduSSL Device
+
+Package: luci-app-mbusd2
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 20673
+Filename: luci-app-mbusd2_1.0-1_mipsel_24kc.ipk
+Size: 21623
+SHA256sum: dca9ad7db440445d10c465e5432e80ecce5646cf41c9bd3bac8c09e8e428e6f3
+Description:  Mbusd2 Device
+
+Package: luci-app-modbus2mqtt
+Version: 0.1-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 10155
+Filename: luci-app-modbus2mqtt_0.1-1_mipsel_24kc.ipk
+Size: 11123
+SHA256sum: 7344e699cc484d07b415ebefb4c66bd15481bc70d209b436896b3834c7e4d458
+Description:  Modbus2mqtt Device
+
+Package: luci-app-vlanset
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 1397
+Filename: luci-app-vlanset_1.0-1_mipsel_24kc.ipk
+Size: 2299
+SHA256sum: bdf05728d4e625e17bc331c0a9733d5f349a0aac3a63283562c487ec7a3e1b66
+Description:  Vlanset Setting
+
