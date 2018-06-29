@@ -1,0 +1,138 @@
+Package: bash
+Version: 4.3.42-1
+Depends: libc, libncurses
+License: GPL-3.0+
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 294058
+Filename: bash_4.3.42-1_mipsel_24kc.ipk
+Size: 294999
+SHA256sum: 29b86976e4007de326053f5aa64593f8f58fac9c3266bbe485b6def90ff1f858
+Description:  Bash is an sh-compatible command language interpreter that executes
+ commands read from the standard input or from a file. Bash also
+ incorporates useful features from the Korn and C shells (ksh and csh).
+
+Package: ca-bundle
+Version: 20170717
+Depends: libc
+Section: base
+Architecture: all
+Installed-Size: 134155
+Filename: ca-bundle_20170717_all.ipk
+Size: 134986
+SHA256sum: f31b22887065d951ff162abf33d14281745ec165dde44b1bffc911d90556f0ec
+Description:  System CA certificates as a bundle
+
+Package: ca-certificates
+Version: 20170717
+Depends: libc
+Section: base
+Architecture: all
+Installed-Size: 145528
+Filename: ca-certificates_20170717_all.ipk
+Size: 146270
+SHA256sum: 06ded2a057d55a4be86cfa7afe49ab1ace271b774b0a344b058de2e4fc2d1105
+Description:  System CA certificates
+
+Package: coreutils-stat
+Version: 8.23-3
+Depends: libc, coreutils
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 30820
+Filename: coreutils-stat_8.23-3_mipsel_24kc.ipk
+Size: 31474
+SHA256sum: 0367dd6357d1991ab819e6dcbb23cb1b388c9663ba62556c94711607dd136b38
+Description:  Full version of standard GNU stat utility.
+
+Package: domoticz
+Version: 3.8153-4
+Depends: libc, boost, boost-date_time, boost-system, boost-thread, libcurl, libmosquittopp, libopenssl, libopenzwave, libsqlite3, libstdcpp, zlib
+License: GPL-3.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 11898827
+Filename: domoticz_3.8153-4_mipsel_24kc.ipk
+Size: 11813481
+SHA256sum: 9a3fda8ff0f6ad03ae2f40b9527143b3656b1c83306239fa2b21f080b357b77b
+Description:  Domoticz is a Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. Notifications/Alerts can be sent to any mobile device.
+
+Package: luci-app-iedu
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 144271
+Filename: luci-app-iedu_1.0-1_mipsel_24kc.ipk
+Size: 145361
+SHA256sum: b032c687c33952efb60ed1ff50116b0e254bfc1bb22954a15c727e9f37d7915f
+Description:  Iedu Device
+
+Package: luci-app-ieduSSL
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 144031
+Filename: luci-app-ieduSSL_1.0-1_mipsel_24kc.ipk
+Size: 145129
+SHA256sum: eb4ead09f26d669a63516636333165dc4767cd01cf1b0e2120bced749f124fa9
+Description:  IeduSSL Device
+
+Package: luci-app-mbusd2
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 20673
+Filename: luci-app-mbusd2_1.0-1_mipsel_24kc.ipk
+Size: 21623
+SHA256sum: dca9ad7db440445d10c465e5432e80ecce5646cf41c9bd3bac8c09e8e428e6f3
+Description:  Mbusd2 Device
+
+Package: luci-app-modbus2mqtt
+Version: 0.1-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 10155
+Filename: luci-app-modbus2mqtt_0.1-1_mipsel_24kc.ipk
+Size: 11123
+SHA256sum: 7344e699cc484d07b415ebefb4c66bd15481bc70d209b436896b3834c7e4d458
+Description:  Modbus2mqtt Device
+
+Package: luci-app-vlanset
+Version: 1.0-2
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 1397
+Filename: luci-app-vlanset_1.0-2_mipsel_24kc.ipk
+Size: 2309
+SHA256sum: 0e8099750cff98388286fb3e3553f3d015f05b5c79950145253751ed41def9fd
+Description:  VLAN Setting
+
+Package: openssh-sftp-server
+Version: 7.4p1-1
+Depends: libc
+License: BSD ISC
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 29977
+Filename: openssh-sftp-server_7.4p1-1_mipsel_24kc.ipk
+Size: 30712
+SHA256sum: ce2d50f743e05d030c3780775d4a4f9026ae09b4a0c4175017c04dcda52fe31e
+Description:  OpenSSH SFTP server.
+
+Package: vsftpd
+Version: 3.0.3-2
+Depends: libc
+License: GPLv2
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 36726
+Filename: vsftpd_3.0.3-2_mipsel_24kc.ipk
+Size: 37550
+SHA256sum: ff0063247a9439ea440f9125016505c14d484d69854ee19115f4ef2f7096843e
+Description:  Fast and secure FTP server (no TLS)
+
